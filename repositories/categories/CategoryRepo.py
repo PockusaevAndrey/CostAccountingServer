@@ -1,4 +1,4 @@
-from controllers.categories.CategoryEntity import CategoryEntity
+from repositories.categories.CategoryEntity import CategoryEntity
 
 
 class CategoryRepo:

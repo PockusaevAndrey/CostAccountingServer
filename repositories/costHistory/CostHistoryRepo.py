@@ -1,4 +1,4 @@
-from controllers.costHistory.CostHistoryEntity import CostHistoryEntity, IncompleteCostHistory
+from repositories.costHistory.CostHistoryEntity import CostHistoryEntity, IncompleteCostHistory
 
 
 class CostHistoryRepo:
